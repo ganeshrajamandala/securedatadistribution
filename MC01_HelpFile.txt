@@ -1,0 +1,25 @@
+D:\2019_mini_workspace
+
+
+
+Student mail details
+
+
+user=studentsram@gmail.com  
+
+pass=studentsram123 
+
+
+
+ 
+
+Host Server Details ----> Drivehq
+
+
+host_name = ftp.drivehq.com
+
+user name = ramstudent
+
+password = studentsram123
+
+
